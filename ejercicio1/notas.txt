@@ -1,0 +1,9 @@
+-- Trino --
+User: root
+Password: No aplica
+
+
+-- Airflow --
+En el docker-compose podrás encontrar el usuario y contraseña.
+
+
